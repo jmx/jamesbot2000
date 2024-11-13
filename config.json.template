@@ -1,0 +1,19 @@
+{
+    "slack": {
+        "appid": "your-app-id",
+        "client_id": "your-client-id",
+        "client_secret": "your-client-secret",
+        "verification_token": "your-verification-token",
+        "signing_secret": "your-signing-secret"
+    },
+    "teams": [
+        {
+            "name": "team1",
+            "token": "your-team"
+        },
+        {
+            "name": "team2",
+            "token": "your-team"
+        }
+    ]
+}
