@@ -1,19 +1,15 @@
 {
     "slack": {
-        "appid": "your-app-id",
-        "client_id": "your-client-id",
-        "client_secret": "your-client-secret",
-        "verification_token": "your-verification-token",
-        "signing_secret": "your-signing-secret"
+        "appid": "",
+        "client_id": "",
+        "client_secret": "",
+        "verification_token": "",
+        "signing_secret": "",
+        "oauth_token": ""
     },
-    "teams": [
-        {
-            "name": "team1",
-            "token": "your-team"
-        },
-        {
-            "name": "team2",
-            "token": "your-team"
-        }
-    ]
+    "google": {
+        "client_id": "",
+        "client_secret": "",
+        "sheet_id": ""
+    }
 }
